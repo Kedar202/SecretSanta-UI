@@ -2,8 +2,8 @@
 
 Requirements to run this in local :
 ---------------------------------
-node & npm installed
-Go to the project directory from terminal and fire 'npm install' and 'npm start'
+- node & npm should be installed.
+- Go to the project directory from terminal and fire 'npm install' and 'npm start'
 
 
 Note :
