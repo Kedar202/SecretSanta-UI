@@ -40,7 +40,6 @@ const LandingPage = (props) => {
 					})
 					.catch((error) => {
 						console.error(error);
-						setParticipants([]);
 					});
 				}
 			
